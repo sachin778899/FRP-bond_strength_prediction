@@ -7,7 +7,7 @@
  - Heroku (PaaS)
 
 ## Model Training
-  I have added a detailed notes on the training and inference model in this [repository](https://github.com/sachin778899/Bond_Strength_Prediction/tree/mai).
+  I have added a detailed notes on the training and inference model in this [repository](https://github.com/sachin778899/Bond_Strength_Prediction).
 > In this repo, I will only have instructions to build front end and deploy.
 
 
